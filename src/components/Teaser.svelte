@@ -1,12 +1,13 @@
 <script>
-  import { storyblokEditable } from '@storyblok/svelte';
+	import { storyblokEditable } from '@storyblok/svelte';
 
-  export let blok;
+	export let blok;
 </script>
 
-<div
-  use:storyblokEditable={blok}
-  class="py-32 text-6xl text-[#50b0ae] font-bold text-center"
+<svelte:element
+	this={blok.headline_level}
+	use:storyblokEditable={blok}
+	class="py-32 text-6xl text-[#50b0ae] font-bold text-center"
 >
-  {blok.headline}
-</div>
+	{blok.headline}
+</svelte:element>
