@@ -1,9 +1,10 @@
-# Ultimate Tutorial Series for SvelteKit
+# Accessible Web Development with Storyblok
 
-Welcome to the Ultimate Tutorial Series for SvelteKit - you are in the right place to learn all about building a full-blown, multilingual website using Storyblok & SvelteKit. 
+This repository shows examples of accessible implementations with Storyblok, which are discussed in a [tutorial series on the same topic](https://www.storyblok.com/tp/accessible-web-development-with-storyblok).
 
-Please follow the step by step instructions available in our documentation. You can find all the different parts on this overview page and take it from here. 
+The series includes:
 
-### Feedback 
+- Implementation of Headline Hierarchies, both automated and manually controlled within Storyblok
+- ...
 
-If you have any questions or feedback, don't hesitate to reach out to our team on [Twitter](https://twitter.com/storyblok), submit a [feature request](https://github.com/storyblok/sveltekit-ultimate-tutorial-series/issues/new) or join our [Discord Community](https://discord.com/invite/jKrbAMz).  
+If you have issues, requests or feedback regarding any of those topics or beyond, feel free to create an issue or reach out directly, we are always happy to receive feedback and continue improving these examples.
