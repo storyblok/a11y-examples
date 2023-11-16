@@ -4,8 +4,10 @@ This repository shows examples of accessible implementations with Storyblok, whi
 
 The series includes:
 
-- Implementation of Headline Hierarchies, both automated and manually controlled within Storyblok
-- ...
+- [Implementation of Headline Hierarchies](https://www.storyblok.com/tp/accessible-headline-hierarchies), both automated and manually controlled within Storyblok
+- [Providing Context & Structure: (ARIA) Landmarks])(https://www.storyblok.com/tp/providing-context-structure-aria-landmarks)
+- Keyboard Accessibility (WIP)
+- Color Contrast & Appearance 
 
 If you have issues, requests or feedback regarding any of those topics or beyond, feel free to create an issue or reach out directly, we are always happy to receive feedback and continue improving these examples.
 
