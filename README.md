@@ -1,3 +1,6 @@
+> [!WARNING]
+> This repository is no longer maintained.
+
 # Accessible Web Development with Storyblok
 
 This repository shows examples of accessible implementations with Storyblok, which are discussed in a [tutorial series on the same topic](https://www.storyblok.com/tp/accessible-web-development-with-storyblok).
